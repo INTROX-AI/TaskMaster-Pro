@@ -1,0 +1,1 @@
+export const NOTIFICATION_SOUND_PATH = '/notification.mp3';
