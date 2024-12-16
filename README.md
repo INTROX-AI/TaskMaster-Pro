@@ -57,7 +57,7 @@ TaskMaster Pro is a **modern, feature-rich task management** application designe
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/taskmaster-pro.git
+git clone https://github.com/INTROX-AI/taskmaster-pro.git
 cd taskmaster-pro
 ```
 
